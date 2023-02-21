@@ -4,7 +4,7 @@
 
   
 
-- 🔭 I’m currently working on a personal project OtakuBook, social media application. Front and Back tecnologies
+- 🔭 I’m currently working on a personal project OtakuBook, social media application, Front and Back tecnologies
 - 🌱 I’m currently learning React | Node/JS
 - 🤔 I’m looking for my first opportunity as a Developer
 - 😄 Pronouns: He/Him
