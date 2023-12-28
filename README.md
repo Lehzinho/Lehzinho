@@ -4,9 +4,8 @@
 
   
 
-- 🔭 I’m currently working on a personal project OtakuBook, social media application, Front and Back tecnologies
-- 🌱 I’m currently learning React | Node/JS
-- 🤔 I’m looking for my first opportunity as a Developer
+- 🔭 I’m currently working on diRoma Holtel in Caldas Novas, Go
+- 🌱 I’m FrontEnd dev specilized in Next.js and React Native 
 - 😄 Pronouns: He/Him
 
 <div align="center">  
