@@ -4,7 +4,7 @@
 
   
 
-- 🔭 I’m currently working on diRoma Holtel in Caldas Novas, Go
+- 🔭 I’m currently working on diRoma Holtel as FrontEnd Developer in Caldas Novas, Go
 - 🌱 I’m FrontEnd dev specilized in Next.js and React Native 
 - 😄 Pronouns: He/Him
 
